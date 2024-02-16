@@ -1,0 +1,20 @@
+colocar novo anuncio
+top:1150 x150
+
+mobile 600 x220
+
+topleft 200 x100
+slidemews 670 x 380
+botttom right 235 x180
+
+AND beginTime >= $timeNow AND finalTime <= $timeNow
+
+criar um post para ao publicar ir para o facebook
+pegar os comentarios
+criar uma area de comentarios.
+fazer o comentario ir para o post do facebook
+
+ver no futuro:
+como publicar automaticamente->https://developers.facebook.com/docs/pages-api/posts#posts
+como publicar instagram automaticamente->https://developers.facebook.com/docs/pages-api/posts#posts
+sistema de commentarios
